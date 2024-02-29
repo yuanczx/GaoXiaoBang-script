@@ -1,5 +1,5 @@
 # Gaoxiaobang-script 高校邦脚本
-### 高校邦刷课脚本运行在 [Tampermonkey](https://www.tampermonkey.net/)
+### 高校邦脚本运行在 [Tampermonkey](https://www.tampermonkey.net/)
 主要功能：
 + 可自动点击播放.
 + 讨论题自动复制已有的答案并粘贴提交,若不需要请在代码中按提示删除(注释).
